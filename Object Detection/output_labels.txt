@@ -1,5 +1,0 @@
-apple
-carrot
-container
-milk
-veg
